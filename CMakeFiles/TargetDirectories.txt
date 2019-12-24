@@ -1,0 +1,4 @@
+/home/mashina/calculator/CMakeFiles/rebuild_cache.dir
+/home/mashina/calculator/CMakeFiles/calculator.dir
+/home/mashina/calculator/CMakeFiles/edit_cache.dir
+/home/mashina/calculator/CMakeFiles/calc.o.dir
